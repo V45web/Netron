@@ -4,4 +4,12 @@ Netron is an **Web framework** for html, css and js. it helps to build applicati
 ## Why only Netron? 
 Netron is every **simple to learn**. Anyone can learn easily also it provides **best performance** as possible with **lightweight** body and **modern design**. it has both **CSS** and **JS** framework. 
 
-_Netron is under construction_
+## _Netron is under construction but you can try it on the [Netron docs](https://netrondocs.pages.dev/) or in your own html page._
+
+**How to install trial version of netron in you html page**
+- Go to your html page under `<body>` paste this code.
+```html
+<script src="https://netron.pages.dev/example/visibility.js"></script>
+```
+- This an CDN (Content delivery network) of Netron.
+- Read the Docs of netron for using instructions - https://netrondocs.pages.dev/
