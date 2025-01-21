@@ -13,3 +13,6 @@ Netron is every **simple to learn**. Anyone can learn easily also it provides **
 ```
 - This an CDN (Content delivery network) of Netron.
 - Read the Docs of netron for using instructions - https://netrondocs.pages.dev/
+
+## Docs
+Here this in docs https://netrondocs.pages.dev/
