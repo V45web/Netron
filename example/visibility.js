@@ -6,7 +6,7 @@ function visibility(className,condition) {
 	 			output.forEach(element => {
 	 			// main code.
 	 			
-	 			if (visibility == true){ // Check if visibility is true if not then it false.
+	 			if (condition == true){ // Check if visibility is true if not then it false.
 	 				element.style.display = 'inline-block'; // show the element
 	 			}else{
 	 				element.style.display = 'none'; // hide the element
